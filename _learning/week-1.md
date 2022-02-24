@@ -1,5 +1,5 @@
 ---
-title: "Learning Portfolio (Week 1)"
+title: "Week 1"
 collection: learning
 type: "Pre-university course"
 permalink: /learning/week-1
@@ -10,8 +10,8 @@ location: "Breda, The Netherlands"
 
 This is a description of your learning experiences. You can use markdown like any other post.
 
-# Heading 1
+## Heading 1
 
-# Heading 2
+## Heading 2
 
-# Heading 3
+## Heading 3

@@ -32,7 +32,8 @@ redirect_from:
   * No icon: not built
 
 ## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+
+* [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
 ## Markdown guide
 
