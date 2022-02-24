@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
+### Bachelor of Science
+
+Graduated with honors from the Breda University of Applied Science BSc. in Computer Science, Breda University of Applied Science, 2028 (expected)
+
+## Work experience
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
