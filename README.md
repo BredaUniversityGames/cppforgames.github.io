@@ -21,12 +21,12 @@ See more info at <https://academicpages.github.io/>
 
 1. Clone the repository and made updates as detailed above
 1. Make sure you have Ruby, and Node.js installed:
-   1. [Ruby](https://www.ruby-lang.org). For Windows install [RubyInstaller](https://rubyinstaller.org/).
+   1. [Ruby](https://www.ruby-lang.org). For Windows install [RubyInstaller](https://rubyinstaller.org/). Make sure you download the latest `Ruby+Devkit` installer.
    2. [Node.js](https://nodejs.org). Download and install the latest LTS release.
    3. After installing, open a command terminal and run the command `ruby -v` to check if Ruby is correctly installed, `bundler -v` for Bundler and and `node -v` for Node.js.
 1. Use `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve --livereload` to generate the HTML and serve it from `http://localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `jekyll serve --livereload` to generate the HTML and serve it from <http://localhost:4000> the local server will automatically rebuild and refresh the pages on change.
 
 ## Changelog -- bugfixes and enhancements
 
