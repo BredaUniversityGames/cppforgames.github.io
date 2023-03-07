@@ -13,13 +13,14 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 3. Name the new repository `[your GitHub username].github.io`.
 4. Edit the `_config.yml` file to set site-wide configuration and create content & metadata.
 5. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at `https://[your GitHub username].github.io/files/example.pdf`.
-6. Open your browser and navigate to `https://[your GitHub username].github.io/`. You should see your new website!
+6. Commit and push any changes to your repository.
+7. Open your browser and navigate to `https://[your GitHub username].github.io/`. You should see your new website!
 
 See more info at <https://academicpages.github.io/>
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
-1. Clone the repository and made updates as detailed above
+1. Clone the repository and make updates as detailed above
 1. Make sure you have Ruby, and Node.js installed:
    1. [Ruby](https://www.ruby-lang.org). For Windows install [RubyInstaller](https://rubyinstaller.org/). Make sure you download the latest `Ruby+Devkit` installer.
    2. [Node.js](https://nodejs.org). Download and install the latest LTS release.

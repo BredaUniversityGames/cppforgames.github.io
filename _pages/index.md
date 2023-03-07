@@ -41,5 +41,5 @@ What do you like doing in your spare time? What is your favorite video game (rig
 ## Career Goals
 
 <!---
-What do you want to do when you graduate? What role do you see yourself in? Do you want to be the graphics programmer on your team or the gameplay programmer? Or maybe you are more interested in physics programming? Or maybe you'd just rather be the all-in-one guy that can help everyone in your team? Where do you want to work? Be specific! What companies appeal to you? Do you want to work in your home country or abroad? What steps do you need to take in order to aquire this job?
+What do you want to do when you graduate? What role do you see yourself in? Do you want to be the graphics programmer on your team or the gameplay programmer? Or maybe you are more interested in physics programming? Or maybe you'd just rather be the all-in-one guy that can help everyone in your team? Where do you want to work? Be specific! What companies appeal to you? Do you want to work in your home country or abroad? What steps do you need to take in order to acquire this job?
 -->

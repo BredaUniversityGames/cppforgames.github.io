@@ -1,10 +1,10 @@
 ---
-title: "Week 1"
+title: "Week 8"
 collection: learning
 type: "Pre-university course"
-permalink: /learning/week-1
+permalink: /learning/week-8
 venue: "Breda University of Applied Sciences"
-date: 2023-09-04
+date: 2023-10-30
 location: "Breda, The Netherlands"
 ---
 

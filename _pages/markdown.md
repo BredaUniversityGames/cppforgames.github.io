@@ -9,23 +9,22 @@ redirect_from:
 
 ## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
+* Basic config options: `_config.yml`
+* Top navigation bar config: `_data/navigation.yml`
+* Single pages: `_pages/`
 * Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+  * `_learning/`
+  * `_pages/`
+  * `_posts/`
+  * `_projects/`
+* Footer: `_includes/footer.html`
+* Static files (like PDFs): `files/`
+* Profile image: `images/profile.png` (can be set in `author.avatar` of `_config.yml`)
 
 ## Tips and hints
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+* Name a file `.md` to have it render in markdown, name it `.html` to render in HTML.
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll.
   * Green check: successful build
   * Orange circle: building
   * Red X: error
@@ -33,7 +32,7 @@ redirect_from:
 
 ## Resources
 
-* [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+* [Liquid syntax guide](https://shopify.github.io/liquid/)
 
 ## Markdown guide
 
@@ -131,7 +130,7 @@ Make any link standout more when applying the `.btn` class.
 ### Address Tag
 
 <address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+  1 Infinite Loop<br/> Cupertino, CA 95014<br/> United States
 </address>
 
 ### Anchor Tag (aka. Link)
@@ -196,7 +195,7 @@ Getting our science styling on with H<sub>2</sub>O, which should push the "2" do
 
 ### Superscript Tag
 
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+Still sticking with science and Isaac Newton's E = mc<sup>2</sup>, which should lift the 2 up.
 
 ### Variable Tag
 
